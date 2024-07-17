@@ -1,5 +1,3 @@
----
-
 # VulnHub Writeups 📚🔒
 
 🌟 **Descripción de VulnHub** 🌟
